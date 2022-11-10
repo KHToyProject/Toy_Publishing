@@ -15,6 +15,7 @@ ul {
   border: 1px solid black;
   justify-content: space-around;
   background-color: rgb(255, 229, 153);
+  margin: 20px 300px;
 }
 
 .text {
@@ -40,5 +41,6 @@ ul {
 
 .foot {
   text-align: end;
+  margin: 20px 300px;
 }
 /* --------------------- */
