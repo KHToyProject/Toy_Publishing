@@ -19,3 +19,9 @@ ul {
 .align_end {
   text-align: end;
 }
+
+.page_align {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
