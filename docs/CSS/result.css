@@ -1,45 +1,98 @@
-li {
-  list-style-type: none;
+* {
+  font-size: 10px;
+  /* border: 1px dotted gray; */
 }
-ul {
+
+.flex {
   display: flex;
-  text-align: center;
-  padding: 0px;
+  flex-direction: row;
+  justify-content: flex-start;
 }
-.ul_1 {
+
+
+.title {
   text-align: center;
   border: 1px solid black;
-  justify-content: space-around;
-  background-color: rgb(255, 229, 153);
-  margin: 20px 300px;
+  padding: 20px 20% 0px 20%;
+  font-size: 3rem;
+  font-weight: 800;
+  background-color: beige;
 }
 
-.text {
-  display: flex;
-}
-
-.li_2 {
-  width: 70%;
+.survey {
+  text-align: center;
   border: 1px solid black;
+  padding: 20px;
 }
 
-.menu {
+.survey >* {
+  display: block;
+  font-size: 3rem;
+}
+
+
+.image {
+  border: 1px solid black;
+  width : 15rem;
+  height : 10rem;
+}
+
+.first_container {
   display: flex;
   flex-direction: column;
 }
 
-.ul_1 > li > ul {
-  display: none;
+.second_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
 }
-.ul_1 > li:hover > ul {
+
+.border {
+  border: 1px solid black;
+}
+
+
+aside  > div {
+  font-size: 3rem;
+  width: 15rem;
+  height: 50rem;
+  background-color: beige;
+}
+
+.ul_style {
+  list-style: none;
+  padding-left: 0;
+}
+
+.ul_style > li {
+  border: 1px solid black;
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+
+.side_button {
   display: block;
+  font-size: 2rem;
+  padding-right: auto;
+  background-color: antiquewhite;
+}
+
+a {
+  text-decoration: none;
 }
 
 .foot {
-  text-align: end;
-  margin: 20px 300px;
+  text-align: start;
 }
+
+
 /* --------------------- */
+
+.foot {
+  text-align: start;
+}
+
 tr > td {
   width: 100px;
 }
@@ -47,4 +100,8 @@ tr > td {
 .align_center {
   display: flex;
   justify-content: center;
+}
+
+td {
+  font-size: 2rem;
 }
