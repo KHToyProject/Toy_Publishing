@@ -1,0 +1,43 @@
+* {
+  border: 1px dotted gray;
+}
+
+li {
+  list-style-type: none;
+}
+ul {
+  display: flex;
+  text-align: center;
+  padding: 0px;
+}
+.ul_1 {
+  text-align: center;
+  border: 1px solid black;
+  justify-content: space-around;
+  background-color: rgb(255, 229, 153);
+}
+
+.text {
+  display: flex;
+}
+
+.li_2 {
+  width: 70%;
+  border: 1px solid black;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+}
+
+.ul_1 > li > ul {
+  display: none;
+}
+.ul_1 > li:hover > ul {
+  display: block;
+}
+
+.foot {
+  text-align: end;
+}
