@@ -12,6 +12,7 @@ ul {
   justify-content: space-around;
   background-color: rgb(255, 229, 153);
   margin: 20px 300px;
+  min-width: 200px;
 }
 
 .text {
