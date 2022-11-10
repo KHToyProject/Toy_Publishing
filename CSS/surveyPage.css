@@ -1,0 +1,21 @@
+* {
+    font-size: 20px;
+    /* border: 1px dotted gray; */
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.button_location {
+    border: 0;
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+form > div {
+    margin: 2px;
+    border: 1px solid black;
+}
