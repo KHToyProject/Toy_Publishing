@@ -67,7 +67,7 @@ input {
     text-align: center;
 }
 
-.button > button {
+.button > button , a {
     font-size: 3rem;
 }
 
