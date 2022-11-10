@@ -70,3 +70,15 @@ input {
 .button > button {
     font-size: 3rem;
 }
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.main_div {
+    background-color: aliceblue;
+    border: 1px solid black;
+    width: 150rem;
+    height: 100rem;
+}
