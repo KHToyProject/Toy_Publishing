@@ -53,6 +53,7 @@ css : [surveyPage.css](./docs/CSS/surveyPage.css)
 
 ## 변경사항
 ### 2022-11-10
+- 업무분담
 - 초안작성
 - 코드작성
 - 화면정의서 작성 
