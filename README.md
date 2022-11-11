@@ -56,6 +56,6 @@ css : [surveyPage.css](./docs/CSS/surveyPage.css)
 - 초안작성
 - 코드작성
 - 화면정의서 작성 
-### 2022-11-10
+### 2022-11-11
 - 코드 수정
 - ppt작성
