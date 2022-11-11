@@ -86,3 +86,7 @@
   .foot {
     text-align: start;
   }
+
+  section > img {
+    width: 70%
+  }
