@@ -13,7 +13,10 @@
 
 - [화면정의서](./refers/02.%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84_V1.0_Template%EC%9D%98%20%EC%82%AC%EB%B3%B8.pdf)  
 
+- [페이지](https://khtoyproject.github.io/Toy_Publishing/)
+
 - [동작 동영상](https://www.youtube.com/watch?v=reu-z99OnQ8)
+
 
 ## 소스코드
 - 메인화면 - 이정훈, 길진수  
