@@ -63,7 +63,3 @@ css : [surveyPage.css](./docs/CSS/surveyPage.css)
 ### 2022-11-11
 - 코드 수정
 - ppt작성
-
-## 구현할것
-- DB
-- DB 연동
